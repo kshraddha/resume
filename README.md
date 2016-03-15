@@ -4,10 +4,10 @@ shraddha.kabade@gmail.com    |    (510) 557-5582    |    Sunnyvale, CA
 
 ##EDUCATION
 
-###B.E. Computer Engineering   |   June 2015   |    GPA: 3.4/4.00
+####B.E. Computer Engineering   |   June 2015   |    GPA: 3.4/4.00
 University of Pune, Maharashtra Institute of Technology (MIT), Pune, India                      
 
-###Courses:  
+####Courses:  
 Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer Graphics, Advanced Computer Architecture,  Computer Networks, Programming Languages, Object Oriented Programming, Compilers, Theory of Computation, Distributed Operating Systems, Software Engineering, Information Security, Software Testing and Quality Assurance.
 
 ##TECHNICAL EXPERTISE
@@ -18,11 +18,13 @@ HTML5, CSS, JavaScript, jQuery, C, C++, Java, Bootstrap, AJAX, OOP, Oracle 9i, M
 
 ###Recreated Airbnb web page
 * This is an experimental project to replicate existing Airbnb web page.
-* Demo: http://kshraddha.github.io/airbnb
+* Demo: http://kshraddha.github.io/airbnb 
+
 ###Developed a responsive site for a database of global landmarks
 * Created and implemented a responsive interface from ground up.
 * This project is build with CSS media queries, mainly focusing on CSS box model, grid system & HTML  layout.
-* Demo: http://kshraddha.github.io/global-landmarks
+* Demo: http://kshraddha.github.io/global-landmarks    
+
 ###Mobile centric web application to securely manage multi-user notes
 * Application is designed focusing on how users would interact on mobile based interface.
 * Signed in users can manage their notes which are stored (post encryption) in browser’s storage.
