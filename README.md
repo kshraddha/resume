@@ -14,16 +14,16 @@ Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer
 
 HTML5, CSS, JavaScript, jQuery, C, C++, Java, Bootstrap, AJAX, OOP, Oracle 9i, MySQL, Git, Eclipse, NetBeans, Debugging.
 
-##DEMO PROJECT
-
-####Recreated Airbnb web page
-* This is an experimental project to replicate existing Airbnb web page.
-* Demo: http://kshraddha.github.io/airbnb 
+##DEMO PROJECTS
 
 ####Developed a responsive site for a database of global landmarks
 * Created and implemented a responsive interface from ground up.
 * This project is build with CSS media queries, mainly focusing on CSS box model, grid system & HTML  layout.
 * Demo: http://kshraddha.github.io/global-landmarks    
+
+####Recreated Airbnb web page
+* This is an experimental project to replicate existing Airbnb web page.
+* Demo: http://kshraddha.github.io/airbnb 
 
 ####Mobile centric web application to securely manage multi-user notes
 * Application is designed focusing on how users would interact on mobile based interface.
