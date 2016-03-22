@@ -7,29 +7,34 @@ shraddha.kabade@gmail.com    |    (510) 557-5582    |    Sunnyvale, CA
 ####B.E. Computer Engineering   |   June 2015   |    GPA: 3.4/4.00
 University of Pune, Maharashtra Institute of Technology (MIT), Pune, India                      
 
-####Courses:  
-Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer Graphics, Advanced Computer Architecture,  Computer Networks, Programming Languages, Object Oriented Programming, Compilers, Theory of Computation, Distributed Operating Systems, Software Engineering, Information Security, Software Testing and Quality Assurance.
+####Key Courses: 
+Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer Graphics, Advanced Computer Architecture,  Computer Networks, Object Oriented Programming, Compilers, Distributed Operating Systems, Software Engineering, Software Testing and Quality Assurance.
 
 ##TECHNICAL EXPERTISE
 
-HTML5, CSS, JavaScript, jQuery, C, C++, Java, Bootstrap, AJAX, OOP, Oracle 9i, MySQL, Git, Eclipse, NetBeans, Debugging.
+HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, C, C++, Java, OOP, Git, Oracle 9i, MySQL, Debugging.
 
-##DEMO PROJECTS
+##PORTFOLIO PROJECTS
 
-####Developed a responsive site for a database of global landmarks
-* Created and implemented a responsive interface from ground up.
-* This project is build with CSS media queries, mainly focusing on CSS box model, grid system & HTML  layout.
-* Demo: http://kshraddha.github.io/global-landmarks    
+####Foogle: Google for food [Demo]
+* Built a search engine interface which allows users to look up recipes and related videos.
+* Curated live content is fetched by programming to available APIs from various online services.
+* For increased user engagement provided Recipe-of-the-day, popular dishes.
+* Implements autocomplete (for searches), pseudo-infinite scroll (results) using AJAX and jQuery.
 
-####Recreated Airbnb web page
-* This is an experimental project to replicate existing Airbnb web page.
-* Demo: http://kshraddha.github.io/airbnb 
+####Airbnb.com: recreating home page for vacation rental‘s gaint [Demo]
+* Took Airbnb’s web page as a mock-up and implemented identical page with respect to content and responsiveness.
+* Leveraged Bootstrap for creating interactive layout.
 
-####Mobile centric web application to securely manage multi-user notes
+####Global Landmarks: popular places around the world [Demo]
+* Highlights some of the famous landmarks/ world heritage centers from different continents.
+* Designed and implemented an interface from ground up for various screen sizes.
+* Built with CSS media queries, focusing on CSS box model, grid system and has Pseudo-infinite scroll for Gallery.
+
+####Web Application to securely manage multi-user notes [Demo]
 * Application is designed focusing on how users would interact on mobile based interface.
 * Signed in users can manage their notes which are stored (post encryption) in browser’s storage.
-* A fun project conceptualized and implemented independently using HTML5, CSS and JavaScript.
-* Demo: http://kshraddha.github.io/notes
+* It’s packaged as Chrome Extension and published in web store: notes-extension
 
 
 ##ACADEMIC PROJECTS
@@ -56,4 +61,3 @@ HTML5, CSS, JavaScript, jQuery, C, C++, Java, Bootstrap, AJAX, OOP, Oracle 9i, M
 * Member of Incredible India club a student initiative social reforming nation building program.
 
 Note : Do not need H1B visa sponsorship.
-
