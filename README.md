@@ -43,10 +43,10 @@ HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, C, C++, Java, OOP, Git, Oracle 
 * Classification of given banknotes was implemented with ORB (Oriented FAST and Rotated BRIEF) algorithm which is an efficient feature detection algorithms.
 * Template matching algorithm was used to recognise forged bill. More accurate results were achieved with RGB Histogram approach.
 
-####Fantasy Sports (Cricket) Portal
-* Members can participate in auction to build their own team.
-* The system tracks performances of players and calculates the points for different teams.
-* It was built with Java and records were persisted in MySQL database.
+####iTunes like media management system
+* Registered users can create playlists, (simulated) purchase the media and request new content.
+* Administrator manages the inventory and keeps track of new media requests.
+* The frontend was designed with Microsoft Visual Basic while Oracle 9i database as backend.
 
 ####Luxury Cars Portfolio       
 * Designed and implemented a website that provides information on various luxury cars. 
