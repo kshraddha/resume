@@ -16,22 +16,22 @@ HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, C, C++, Java, OOP, Git, Oracle 
 
 ##PORTFOLIO PROJECTS
 
-####Foogle: Google for food [Demo]
+####Foogle: Google for food [Demo](http://kshraddha.github.io/foogle)
 * Built a search engine interface which allows users to look up recipes and related videos.
 * Curated live content is fetched by programming to available APIs from various online services.
 * For increased user engagement provided Recipe-of-the-day, popular dishes.
 * Implements autocomplete (for searches), pseudo-infinite scroll (results) using AJAX and jQuery.
 
-####Airbnb.com: recreating home page for vacation rental‘s gaint [Demo]
+####Airbnb.com: recreating home page for vacation rental‘s gaint [Demo](http://kshraddha.github.io/airbnb)
 * Took Airbnb’s web page as a mock-up and implemented identical page with respect to content and responsiveness.
 * Leveraged Bootstrap for creating interactive layout.
 
-####Global Landmarks: popular places around the world [Demo]
+####Global Landmarks: popular places around the world [Demo](http://kshraddha.github.io/global-landmarks)
 * Highlights some of the famous landmarks/ world heritage centers from different continents.
 * Designed and implemented an interface from ground up for various screen sizes.
 * Built with CSS media queries, focusing on CSS box model, grid system and has Pseudo-infinite scroll for Gallery.
 
-####Web Application to securely manage multi-user notes [Demo]
+####Web Application to securely manage multi-user notes [Demo](http://kshraddha.github.io/notes)
 * Application is designed focusing on how users would interact on mobile based interface.
 * Signed in users can manage their notes which are stored (post encryption) in browser’s storage.
 * It’s packaged as Chrome Extension and published in web store: notes-extension
