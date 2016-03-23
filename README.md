@@ -1,6 +1,6 @@
 #Shraddha Kabade
 
-shraddha.kabade@gmail.com    |    (510) 557-5582    |    Sunnyvale, CA
+shraddha.kabade@gmail.com  |  Sunnyvale, CA
 
 ##EDUCATION
 
