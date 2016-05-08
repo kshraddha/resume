@@ -12,9 +12,13 @@ Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer
 
 ##TECHNICAL EXPERTISE
 
-HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, C, C++, Java, OOP, Git, Oracle 9i, MySQL, Debugging.
+HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, AngularJS, MVC, C, C++, Java, OOP, Git, Oracle9i, MySQL, Debugging.
 
 ##PORTFOLIO PROJECTS
+
+####MEAN Stack based Voting App [(Demo)](http://shraddha-voting-app.heroku.com/)
+* Full stack application where (signed in) users can create new polls, view results and/or participate in existing polls.
+* Uses MongoDB to persist user/poll information; Bootstrap, Chart.js and AngularJS for UI; Node.js with Express.js for server side implementation.
 
 ####Foogle: Google for food [(Demo)](http://kshraddha.github.io/foogle)
 * Built a search engine interface which allows users to look up recipes and related videos.
