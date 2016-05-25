@@ -12,7 +12,7 @@ Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer
 
 ##TECHNICAL EXPERTISE
 
-HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, AngularJS, MVC, C, C++, Java, OOP, Git, Oracle9i, MySQL, Debugging.
+HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, AngularJS, MVC, RESTful WebServices, C, C++, Java, OOP, Git, Oracle9i, MySQL, Debugging.
 
 ##PORTFOLIO PROJECTS
 
