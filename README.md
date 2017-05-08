@@ -12,7 +12,7 @@ Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer
 
 ## TECHNICAL EXPERTISE
 
-HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, AngularJS, MVC, RESTful WebServices, C, C++, Java, OOP, Git, Oracle9i, MySQL, Debugging.
+JavaScript, AJAX, Node.js, Express.js, MongoDB, AngularJS, C, C++, Java, OOP, Salesforce.com, Cassandra, Apache Spark, Machine Learning, HTML5, CSS, jQuery, Bootstrap, MVC, RESTful WebServices, Git, Oracle9i, MySQL, Debugging.
 
 ## WORK EXPERIENCE
 
@@ -49,11 +49,6 @@ HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, A
 * Designed and implemented an interface from ground up for various screen sizes.
 * Built with CSS media queries, focusing on CSS box model, grid system and has Pseudo-infinite scroll for Gallery.
 
-#### Web Application to securely manage multi-user notes [(Demo)](http://kshraddha.github.io/notes)
-* Signed in users can manage their notes which are stored (post encryption) in browser’s storage.
-* Application is designed focusing on how users would interact on mobile based interface.
-* It’s packaged as Chrome Extension and published in web store: notes-extension
-
 
 ## ACADEMIC PROJECTS
 
@@ -65,12 +60,3 @@ HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, A
 * Registered users can create playlists, (simulated) purchase the media and request new content.
 * Administrator manages the inventory and keeps track of new media requests.
 * The frontend was designed with Microsoft Visual Basic while Oracle 9i database as backend.
-
-
-## EXTRA CURRICULAR ACTIVITIES
-
-* Organising team member of technical event Tesla in undergraduate school.
-* Creative team member of undergraduate school cultural event Art Beat.
-* Member of Incredible India club a student initiative social reforming nation building program.
-
-Note : Do not need H1B visa sponsorship.
