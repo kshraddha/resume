@@ -14,6 +14,12 @@ Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer
 
 HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, AngularJS, MVC, RESTful WebServices, C, C++, Java, OOP, Git, Oracle9i, MySQL, Debugging.
 
+## WORK EXPERIENCE
+
+#### Move Inc, Santa Clara, California - Software Developer : June 2016 - Present
+* Building products for real estate brokers by leveraging several parts of Salesforce ecosystem such as Apex language, SOQL, VisualForce etc.
+* Responsible for deploying, configuring and administering substituent components to staging and production environments.
+
 ## PORTFOLIO PROJECTS
 
 #### MEAN Stack based Voting App [(Demo)](http://shraddha-voting-app.heroku.com/)
@@ -51,11 +57,6 @@ HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, A
 * Registered users can create playlists, (simulated) purchase the media and request new content.
 * Administrator manages the inventory and keeps track of new media requests.
 * The frontend was designed with Microsoft Visual Basic while Oracle 9i database as backend.
-
-#### Luxury Cars Portfolio       
-* Designed and implemented a website that provides information on various luxury cars. 
-* Users can view info such as - history, model specific details, current affairs and related links.
-* Technologies: HTML, CSS & JavaScript.
 
 
 ## EXTRA CURRICULAR ACTIVITIES
