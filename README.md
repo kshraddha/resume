@@ -20,6 +20,14 @@ HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap, Node.js, Express.js, MongoDB, A
 * Building products for real estate brokers by leveraging several parts of Salesforce ecosystem such as Apex language, SOQL, VisualForce etc.
 * Responsible for deploying, configuring and administering substituent components to staging and production environments.
 
+
+## VOLUNTEER EXPERIENCE
+
+#### What’s Your Impact, Web Application Developer : May 2016 - Dec 2016
+* Worked as a full stack developer to build Single Page Application aiming to help people to take action to manage their negative impact on the environment.
+* Built with Javascript, Node.js, AngularJS, MongoDB, AJAX, HTML, CSS.
+
+
 ## PORTFOLIO PROJECTS
 
 #### MEAN Stack based Voting App [(Demo)](http://shraddha-voting-app.heroku.com/)
