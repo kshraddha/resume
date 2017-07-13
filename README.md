@@ -30,7 +30,7 @@ JavaScript, AJAX, Node.js, Express.js, MongoDB, AngularJS, C, C++, Java, OOP, Sa
 
 ## PORTFOLIO PROJECTS
 
-#### MEAN Stack based Voting App [(Demo)](http://shraddha-voting-app.heroku.com/)
+#### MEAN Stack based Voting App [(Demo)](https://shraddha-voting-app.herokuapp.com//)
 * Full stack application where (signed in) users can create new polls, view results and/or participate in existing polls.
 * Uses MongoDB to persist user/poll information; Bootstrap, Chart.js and AngularJS for UI; Node.js with Express.js for server side implementation.
 
