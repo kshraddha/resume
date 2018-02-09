@@ -16,7 +16,7 @@ Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer
 
 ## TECHNICAL EXPERTISE
 
-JavaScript, AJAX, Node.js, Express.js, MongoDB, AngularJS, C, C++, Java, OOP, Salesforce.com, Cassandra, Apache Spark, Machine Learning, HTML5, CSS, jQuery, Bootstrap, MVC, RESTful WebServices, Git, Oracle9i, MySQL, Debugging.
+JavaScript, AJAX, Node.js, Express.js, MongoDB, AngularJS, C, C++, Java, OOP, Salesforce.com, Cassandra, Apache Spark, Machine Learning, HTML5, CSS, jQuery, Bootstrap, MVC, RESTful WebServices, Git, Oracle9i, MySQL.
 
 ## WORK EXPERIENCE
 
