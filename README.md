@@ -4,12 +4,12 @@ shraddha.kabade@gmail.com  |  Sunnyvale, CA
 
 ## EDUCATION
 
-#### M.S. Software Engineering   |   Expected August 2019   |    GPA: 3.4/4.00
+#### M.S. Software Engineering   |   Expected August 2019  
 San Jose State University, CA                      
 ### Key Courses: 
 Topics in XML and Web intelligence, Distributed Computing, Database System principles
 
-#### B.E. Computer Engineering   |   June 2015   |    GPA: 3.4/4.00
+#### B.E. Computer Engineering   |   June 2015  
 University of Pune, Maharashtra Institute of Technology (MIT), Pune, India                      
 ### Key Courses: 
 Data Structures, Design and Analysis of Algorithms, Advanced Databases, Computer Graphics, Advanced Computer Architecture,  Computer Networks, Object Oriented Programming, Distributed Operating Systems, Software Engineering, Software Testing and Quality Assurance.
